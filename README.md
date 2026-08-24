@@ -1,5 +1,7 @@
-## My Github profile
+My Github profile
 👋 Hi, I'm **Dafamuhharom**
+
+![Dafamuhharom](img/DESAIN.png)
 
 🎓 Information Technology Student | 💻 Tech Enthusiast
 
