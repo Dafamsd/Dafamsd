@@ -1,80 +1,80 @@
-## My Github profile
-👋 Hi, I'm **Dafamuhharom**
+# 👋 Hi, I'm Dafa Muhharom Sri Dwianto
 
-![Dafamuhharom](img/www.png)
+<!-- Panggil/tuliskan nama file banner mu disini. pastikan file banner udh dalam folder Readme  -->
 
-🎓 Information Technology Student | 💻 Tech Enthusiast
+![Header GitHub](banner.jpeg)
 
-Welcome to my GitHub profile!
-I'm an Information Technology student who is passionate about learning technology, programming, and building useful digital projects.
+<!-- Typing otomatis bisa diganti lewat sini https://readme-typing-svg.herokuapp.com/demo/ -->
+<p align="center">                                                         
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MAHASISWA+TEKNOLOGI+INFORMASI;POLITEKNIK+NEGERI+MADIUN" />
+</p>
 
----
 
-🚀 About Me
+<!-- Bisa menambahkan sosial media kamu disini.-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/dafa-muhharom-081b1b430"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:dafamuhharom3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>  
+  <!-- instagram -->
+  <a href="https://www.instagram.com/dafamsd?igsi=bXh1dTd5Y21vZXh2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <!-- tiktok -->
+  <a href="https://www.tiktok.com/@dafamsd?_r=1&_t=ZS-99AYNEr8z8U"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a> 
+</p>
 
-- 🎓 Currently studying Information Technology
-- 💻 Learning programming and web development
-- 🔐 Interested in Cyber Security
-- 🌱 Always learning and improving my skills
-- 🚀 Interested in building useful and creative projects
+--- 
 
----
+<!-- Tulis background kamu, usahakan memakai bahasa inggris -->
 
-🛠️ Tech & Skills
+## 🧑‍💻 About Me
 
-💻 Programming & Web
+I have experience in photography and graphic design. Through these experiences, I have learned how to use various design applications, develop my creativity, pay attention to detail, and edit images to create interesting and meaningful works.
 
-"HTML" "CSS" "JavaScript" "Python"
+These experiences have made me more interested in technology and the digital world. I chose the Information Technology program because I want to improve my skills, not only in photography and graphic design but also in programming, application development, and computer systems.
 
-🔧 Tools
+I hope my previous experience can become a foundation for learning new things during college. In the future, I want to combine my creativity and technology skills to create useful and innovative digital works.
 
-"Git" "GitHub" "VS Code"
+<!-- tambahkan teknologi apa yang kamu kuasai atau kamu pelajarin saat ini -->
 
-🔐 Currently Exploring
+## 🛠️ Technologies & Tools
 
-"Cyber Security" "Networking" "Linux"
+### 💻 Programming Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-📚 My Learning Journey
+### 🎨 Frontend
 
-I'm currently focusing on improving my fundamentals in:
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- Programming
-- Web Development
-- Computer Networking
-- Git & GitHub
-- Cyber Security
-- Problem Solving
+### 🗄️ Databases
 
-«"Learn, Build, Improve, Repeat." 🚀»
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+### 🛠️ Tools & Platforms
 
-🎯 My Goals
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-My goal is to continuously develop my technical skills, create meaningful projects, and become a professional in the technology field.
+### 🎬 Creative Tools
 
----
-
-📊 GitHub Stats
-
-"Dafamuhharom's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Dafamsd&show_icons=true&theme=tokyonight)
-
----
-
-🔥 GitHub Streak
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=Dafamsd&theme=tokyonight)
-
----
-
-📫 Connect With Me
-
-GitHub: "@Dafamsd" (https://github.com/Dafamsd)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 ---
 
-⭐ Thanks for visiting my profile!
+<!-- Tambahkan project yang pernah kamu kerjakan. bisa tambahkan link project -->
 
-Keep learning. Keep building. Keep growing. 🚀
+
+
+## 🤝 Let's Connect!
+
+Saya selalu terbuka untuk kolaborasi, diskusi teknologi, atau sekadar ngobrol santai. Jangan ragu untuk menghubungi saya melalui platform di atas.
