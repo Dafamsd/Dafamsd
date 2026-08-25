@@ -2,7 +2,7 @@
 
 <!-- Panggil/tuliskan nama file banner mu disini. pastikan file banner udh dalam folder Readme  -->
 
-![Header GitHub](banner.jpeg)
+![Header GitHub](img/banner.jpeg)
 
 <!-- Typing otomatis bisa diganti lewat sini https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">                                                         
